@@ -1,4 +1,4 @@
-## Hi there 👋
+## :octocat: Welcome to my Github page
 
 - :nerd_face: I'm a software engineer
 - :books: I study computer science
